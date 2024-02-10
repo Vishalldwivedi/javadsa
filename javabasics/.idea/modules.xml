@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/STring/STring.iml" filepath="$PROJECT_DIR$/STring/STring.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasics.iml" filepath="$PROJECT_DIR$/javabasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
     </modules>
   </component>
 </project>
