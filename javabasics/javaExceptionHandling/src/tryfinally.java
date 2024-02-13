@@ -8,7 +8,6 @@ public class tryfinally {
 
         try {// try block will fully execute when no exception
             num = sc.nextInt();
-
         }
         catch(InputMismatchException obj) {// when there i a exception
             System.out.println("please enter a no ");

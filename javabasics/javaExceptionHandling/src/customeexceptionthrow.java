@@ -5,7 +5,6 @@ class myException extends Exception{
                         // this it self will not print mssg
                 super(s)       ;//using super keyword child class can call parent
                 // class constructor
-
            }
    }
 public class customeexceptionthrow {

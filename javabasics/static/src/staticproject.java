@@ -1,11 +1,11 @@
 
-class demo1{
+ class demo1{
     static int a ;
     static int b ;
     int m ;// instance variable
     int n ;
 
-    static {
+    static{
         a = 10 ;
         b = 20;
         System.out.println("control in static block");

@@ -10,7 +10,6 @@
       int num = n / nn ;
       System.out.println(num);
   }
-
 }
 public class throwss {
     public static void main(String[] args) {
