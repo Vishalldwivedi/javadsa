@@ -23,7 +23,7 @@ public class customeexceptionthrow {
             }
         }
         catch(Exception e){
-            System.out.println("denominator should be non -negative and non zero" + " " +e);
+            System.out.println("a" + " " +e);
     }
 }
 }                           

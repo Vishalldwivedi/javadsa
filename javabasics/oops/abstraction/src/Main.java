@@ -4,14 +4,10 @@
 abstract class airoplane{
     abstract public void fly();
 
-
     abstract public void takeOff();
-
     public void landing(){
         System.out.println("plan landing");
     }
-
-
 }
 class cargoPlane extends airoplane{
     public void fly(){// over riding method

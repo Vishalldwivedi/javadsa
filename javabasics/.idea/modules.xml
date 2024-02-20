@@ -4,10 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/oops/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/oops/Constructor/Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/INharitance/INharitance.iml" filepath="$PROJECT_DIR$/oops/INharitance/INharitance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/Interface/Interface.iml" filepath="$PROJECT_DIR$/oops/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAdvance/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/javaAdvance/Multithreading/Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/STring/STring.iml" filepath="$PROJECT_DIR$/STring/STring.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/oops/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/college/college.iml" filepath="$PROJECT_DIR$/college/college.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/oops/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAdvance/javaAdvance.iml" filepath="$PROJECT_DIR$/javaAdvance/javaAdvance.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasics.iml" filepath="$PROJECT_DIR$/javabasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/lamda/lamda.iml" filepath="$PROJECT_DIR$/java8/lamda/lamda.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/oops/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />

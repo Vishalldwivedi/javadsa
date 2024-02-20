@@ -16,8 +16,8 @@ public class throwss {
 bemo obj = new bemo();
 try{
     obj.a();
-}catch(Exception e){
+ } catch(Exception e){
     System.out.println("divide by zero exceptoin" + " " + e);
-}
+ }
     }
 }
