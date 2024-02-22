@@ -1,4 +1,6 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+package javabasic;
+
+;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 abstract class airoplane{
@@ -49,15 +51,15 @@ public class Main {
     public static void main(String[] args) {
         cargoPlane cp = new cargoPlane();
 
-//        passagerPlane pp = new passagerPlane();
-////        airoplane rf;
+//        com.passagerPlane pp = new com.passagerPlane();
+////        com.airoplane rf;
 ////        rf = cp ;
 ////        rf.fly();
 ////        rf.takeOff();
 ////        rf = pp;
 ////        rf.fly();
 ////        rf.takeOff();
-//        airport  a = new airport();// this is run time poly as it is binding in run time
+//        com.airport  a = new com.airport();// this is run time poly as it is binding in run time
 //        a.poly(cp);
 //        a.poly(pp);
     }
