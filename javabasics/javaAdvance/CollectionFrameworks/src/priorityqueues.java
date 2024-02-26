@@ -20,5 +20,9 @@ public class priorityqueues {
         p.add(178);
         System.out.println(p);
 
+
+        System.out.println(p.peek());
+        System.out.println(p.poll());
+        System.out.println();
     }
 }
