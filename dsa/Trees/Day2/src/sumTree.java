@@ -18,8 +18,8 @@ public class sumTree {
     public static int helpp(Nodee root){
         if(root == null) return 0;
         if(root.left == null && root.right == null) return root.data;
-        int left = helpp(root.left);
-        int right = helpp(root.right);
+        int left = helpp(root.left);//left sum
+        int right = helpp(root.right);//right sum;
 
         if(left == -1 || right == -1||(root.data != left + right) )return -1;
         return root.data + left + right;
