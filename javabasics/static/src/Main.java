@@ -11,7 +11,9 @@ public class Main {
         System.out.println("static dis method");
     }
     public static void main(String[] args) {
+        Main.display();
         System.out.println("second");
+
 // if not called display it will not display;
 
 

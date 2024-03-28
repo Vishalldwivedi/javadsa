@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/day4hard/day4hard.iml" filepath="$PROJECT_DIR$/day4hard/day4hard.iml" />
       <module fileurl="file://$PROJECT_DIR$/day5bst/day5bst.iml" filepath="$PROJECT_DIR$/day5bst/day5bst.iml" />
       <module fileurl="file://$PROJECT_DIR$/day6bst/day6bst.iml" filepath="$PROJECT_DIR$/day6bst/day6bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7bst/day7bst.iml" filepath="$PROJECT_DIR$/day7bst/day7bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8balancedbst/day8balancedbst.iml" filepath="$PROJECT_DIR$/day8balancedbst/day8balancedbst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8/day9.iml" filepath="$PROJECT_DIR$/day8/day9.iml" />
     </modules>
   </component>
 </project>

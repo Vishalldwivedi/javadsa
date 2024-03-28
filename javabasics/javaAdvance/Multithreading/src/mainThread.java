@@ -9,6 +9,7 @@ public class mainThread {
         Thread t = Thread.currentThread();
         t.setName("vishal");
         t.setPriority(1);
+        System.out.println( Thread.currentThread().getPriority());//
 
 
 

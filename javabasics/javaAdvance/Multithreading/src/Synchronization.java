@@ -1,6 +1,6 @@
 import java.util.TreeMap;
 
-class car implements Runnable{
+class car implements Runnable {
     synchronized public void run(){
         try{
             System.out.println(Thread.currentThread().getName() + " has entered the parking lot");
