@@ -52,7 +52,7 @@ public class heap {
         int par;
         while (ind > 0) {
             par = (ind - 1) / 2;
-            // Parent is smaller, break the loop
+            // Parent is big, break the loop
             if (mh[par] >= mh[ind]) {
                 break;
             }

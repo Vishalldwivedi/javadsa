@@ -45,7 +45,7 @@ public class heapAdvanceN {
             int temp = arr[i];
             arr[i] = arr[largest];
             arr[largest] = temp;
-            heapify(arr, size, largest);
+            heapify(arr,largest,size);
         }
     }
 }
