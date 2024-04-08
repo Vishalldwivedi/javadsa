@@ -22,7 +22,6 @@ class genericList<T> implements Iterable<T> {
 
     @Override
     public Iterator<T> iterator() {
-
         return null;
     }
 }
@@ -34,11 +33,11 @@ public class Main {
         l.add("dd");
         l.add("dfds");
         l.add("dfdaa");
-// we cant iterate over the list because we dont have access to this array make this item array as public
-        // encpsulation principle is invalidaed oops
-        // user can manupulate it
+        // we cant iterate over the list because we dont have access to this
+        // array make this item array as public
+        // encapsulation principle is invalided oops
+        // user can manipulate it
         //for this we need to implement iterable interface that means this object is not ierable we cniterate over this
         // list
-
     }
 }
